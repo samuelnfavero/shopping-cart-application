@@ -26,5 +26,5 @@ Aplicação desenvolvida em grupo como último projeto do curso Santander Coders
 
 
 <div align="center">
-  <object src="https://drive.google.com/u/0/uc?id=1BXTgs1-p3txHaIyLOPjgeXaSJ8Y3B9vH&export=download" width="100%" height="100%"/>
+  <img src="https://drive.google.com/u/0/uc?id=15_FFCV_tbsk5htVyCJfSIhEeX0Nez8zt&export=download" width="100%" height="100%"/>
 </div>
